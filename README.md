@@ -1,1 +1,2 @@
 # SingerShowcase-Website
+The homepage of this website features a cartoon version of a bedroom. One of the walls is adorned with posters, each of which you can click on to access web pages dedicated to various artists. These artist pages will showcase their album sales and profiles through visually appealing designs, making for an engaging user experience. Though this is a work in progress, I have been gaining valuable insights into UI/UX design principles and am looking forward to providing users with an enjoyable browsing experience. 
