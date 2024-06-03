@@ -1,0 +1,30 @@
+
+.backWall{
+  height: 535px; 
+  width: 900px; 
+  position: relative; 
+  left: 412px;
+  top: -295px;
+
+} 
+
+.leftWall{
+  position: relative; 
+  left:-900px; 
+  top:20px; 
+
+} 
+
+.rightWall{
+  position:relative; 
+  right:-1305px; 
+  top:-838px; 
+
+}
+
+
+
+
+
+
+
